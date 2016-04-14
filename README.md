@@ -1,5 +1,9 @@
 # emoji-php
 
+### 各编码对照表可参照“table”文件夹
+├ softbank.html
+└ table.html
+
 ### emoji_softbank_to_unified
 ###### 对提交文本进行转换
 
